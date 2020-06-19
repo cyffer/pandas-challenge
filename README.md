@@ -1,8 +1,6 @@
 # pandas-challenge
-Bootcamp homework
 
-
-The following statiscal report contains that answers market information by mining the dataset :
+The following statiscal report contains  research information extrapolated from an independent gaming company's dataset:
 
 ### Player Count
 
